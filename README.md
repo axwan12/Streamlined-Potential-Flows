@@ -1,5 +1,5 @@
 # Streamlined Flow
-For this project I worked with A planar complex potential, transforming it into flow around a cylinder using the Milne-Thompson circle theorem. I added optional circulation to simulate lift on the body of the cylinder/ airfoil. Circulation can be turned off by setting "Gamma = 0" and the kutta condition satisfied by "Gamma = Kutta".
+For this project I worked with A planar complex potential, transforming it into flow around a cylinder using the Milne-Thompson circle theorem. I added optional circulation to simulate lift on the body of the cylinder/ airfoil. Circulation can be turned off by setting "Gamma = 0" and the kutta condition satisfied by "Gamma = Kutta". Gamma is the circulation (how much the fluid wants to circle the body of the object) and the kutta condition forces the flow to leave the body at the trailing edge.
 
 ## Cylindrical Flow
 <img width="730" height="598" alt="Cyliner_Flow" src="https://github.com/user-attachments/assets/f3dc5797-1c02-46c2-a661-fdfe99fe6eb4" />  
